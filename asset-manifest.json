@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/syamala-react-app-works/static/css/main.98dbd6fd.css",
+    "main.js": "/syamala-react-app-works/static/js/main.0c025b76.js",
+    "static/js/453.1da5f1a6.chunk.js": "/syamala-react-app-works/static/js/453.1da5f1a6.chunk.js",
+    "static/media/weather.gif": "/syamala-react-app-works/static/media/weather.688371e21fa0f1f8bee7.gif",
+    "static/media/ui.gif": "/syamala-react-app-works/static/media/ui.3fbdd4480be56d967940.gif",
+    "static/media/glow.gif": "/syamala-react-app-works/static/media/glow.1b6ba60f31c54dc56318.gif",
+    "static/media/circle.png": "/syamala-react-app-works/static/media/circle.e40280d9bbc7dbb1c2cf.png",
+    "static/media/p2.png": "/syamala-react-app-works/static/media/p2.07dbcae6bf3bdc2ef521.png",
+    "static/media/pcircle.png": "/syamala-react-app-works/static/media/pcircle.bd57123473b5013f866e.png",
+    "static/media/shirt.jpg": "/syamala-react-app-works/static/media/shirt.1f0eeec8741f0a07d187.jpg",
+    "static/media/man3.jpg": "/syamala-react-app-works/static/media/man3.094a7dd74dc88159d833.jpg",
+    "static/media/gif.png": "/syamala-react-app-works/static/media/gif.cc14149a86756c224232.png",
+    "static/media/do.png": "/syamala-react-app-works/static/media/do.104c32acd9bab60ab5ec.png",
+    "static/media/shoe.jpg": "/syamala-react-app-works/static/media/shoe.42a5eac4c7bae0fa88ab.jpg",
+    "static/media/watch.jpg": "/syamala-react-app-works/static/media/watch.44806be5483d3c545928.jpg",
+    "static/media/pro.png": "/syamala-react-app-works/static/media/pro.e2a578508170458c63e9.png",
+    "static/media/man.jpg": "/syamala-react-app-works/static/media/man.ae5876520725e29f0b86.jpg",
+    "static/media/pen.jpg": "/syamala-react-app-works/static/media/pen.23c6e07e3cdde690091d.jpg",
+    "static/media/stock1.png": "/syamala-react-app-works/static/media/stock1.c88126b0533d3829e5b5.png",
+    "static/media/email.jpg": "/syamala-react-app-works/static/media/email.11d9547f1e611c7d794a.jpg",
+    "index.html": "/syamala-react-app-works/index.html",
+    "main.98dbd6fd.css.map": "/syamala-react-app-works/static/css/main.98dbd6fd.css.map",
+    "main.0c025b76.js.map": "/syamala-react-app-works/static/js/main.0c025b76.js.map",
+    "453.1da5f1a6.chunk.js.map": "/syamala-react-app-works/static/js/453.1da5f1a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98dbd6fd.css",
+    "static/js/main.0c025b76.js"
+  ]
+}
