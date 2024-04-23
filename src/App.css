@@ -1,0 +1,229 @@
+.one{
+  background-color: #4C5270;
+  height: 1200px;
+}
+.two{
+  background-color: #4C5270;
+  color: white;
+  width: 1220px;
+  padding: 20px;
+}
+.three{
+  background-image:linear-gradient( to left, #FB6B90,#FB8DA0,#F8AFA6);
+  display: inline-flex;
+  height: 50px;
+  width: 250px;
+}
+.four{
+  margin-top: 10px;
+  margin-left: 30px;
+  font-size: 20px;
+  display: inline-flex;
+}
+.five{
+  color: white;
+}
+
+.seven{
+  margin-top: 10px;
+  padding: 30px;
+}
+
+
+.to{
+  font-size: 30px;
+}
+.on{
+  background-image:linear-gradient( to left, #FB6B90,#FB8DA0,#F8AFA6);
+  border: none;
+}
+.of{
+ background-color: #FB6B90;
+ border-radius: 50%;
+ height: 40px;
+ width: 40px;
+}
+.so{
+  margin-top: 10px;
+  margin-left: 7px;
+  color: white;
+
+}
+.in{
+  font-size:small;
+}
+.card1{
+  height: 200px;
+  width: 250px;
+  background-image: linear-gradient( to right ,#FF8BDA,#FB6B90);
+  border-radius: 30px;
+}
+.if{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.card2{
+  height: 200px;
+  width: 250px;
+  background-image: linear-gradient( to right ,#603F8B,#A16AE8);
+  border-radius: 30px;
+}
+.card3{
+  height: 200px;
+  width: 250px;
+  background-image: linear-gradient( to right ,#189AB4,#75E6DA);
+  border-radius: 30px;
+}
+.card4{
+  height: 200px;
+  width: 250px;
+  background-image: linear-gradient( to right ,#FEDE00,#C8DF52);
+  border-radius: 30px;
+}
+.para{
+  background-image: linear-gradient( to right ,#FF8300,#FF4500);
+  margin-left: 30px;
+  border: #FF8300;
+}
+.p{
+  justify-content: center;
+}
+.card5{
+  background-image: linear-gradient(to bottom,#36EEE0,#8FDDE7);
+  height: 300px;
+  width: 280px;
+}
+.card6{
+  background-image: linear-gradient(to bottom,#050A30,#4C5270);
+  width: 280px; 
+  height: 300px;
+  margin-right: 40px;
+}
+.card7{
+  background-image: linear-gradient(to bottom,#18A558,#B4F8C8);
+  height: 300px;
+  width: 280px;
+}
+.card8{
+  background-image: linear-gradient(to bottom,#F51720,#DF362D);
+  height: 300px;
+  width: 280px;
+}
+.child1{
+  background-image: linear-gradient(to right,#18A558,#A3EBB1);
+  margin-left: 50px;
+}
+.child2{
+  background-image: linear-gradient(to right,#444444,#B1B1B1);
+  margin-left: 20px;
+}
+.parent1{
+  background-color: white;
+  margin-left: 70px;
+}
+.parent2{
+  background-color: white;
+  margin-left: 40px;
+}
+.parent3{
+  background-color: white;
+}
+::placeholder{
+text-align: center;
+}
+.dot:active{
+  background-color: green;
+}
+.data{
+  height: 90px;
+}
+.at{
+  position: relative;
+}
+.no{
+  position: absolute;
+  top: 5%;
+}
+.bar{
+  margin-top: 50px;
+}
+.A:hover{
+transform: scale(1.2);
+}
+.b:hover{
+opacity: 0.9;
+
+}
+.c:hover{
+  background-image: linear-gradient(to top ,#BD97CB,#D3BBDD);
+  color: white;
+}
+.d:hover{
+  background-image: linear-gradient(to top ,#EC9EC0,#F8C0C8);
+  color: white;
+}
+.e:hover{
+  background-image: linear-gradient(to bottom,#B4FEE7,#71E7E0);
+  color: white;
+}
+.f:hover{
+  background-image: linear-gradient(to bottom,#FF5C4D,#FC2E20);
+  color: white;
+}
+.g:hover{
+  background-image: linear-gradient(to bottom,#94C973,#76B947);
+  color: white;
+}
+.h:hover{
+  background-image: linear-gradient(to bottom,#FDB750,#FD7F20);
+  color: white;
+}
+.t:hover{
+  background-color:#B4F8C8 ;
+  opacity: 0.7;
+}
+.data:hover{
+  background-color:#FFAEBC ;
+  opacity: 0.9;
+}
+.card1:hover{
+  background-image: linear-gradient(to right,#274472,#5885AF);
+}
+.card2:hover{
+  background-image: linear-gradient(to right,#67595E,#A49393);
+}
+.card3:hover{
+  background-image: linear-gradient(to right,#FADCD9,#F9F1F0);
+}
+.card4:hover{
+  background-image: linear-gradient(to right,#868B8E,#B9B7BD);
+}
+.z:hover{
+  transform: scale(1.02);
+}
+.card5:hover{
+  transform: scale(1.05);
+}
+.card6:hover{
+  transform: scale(1.05);
+}
+.card7:hover{
+  transform: scale(1.05);
+}
+.card8:hover{
+  transform: scale(1.05);
+}
+.Y{
+  position: relative;
+}
+.Z{
+  position: absolute;
+  top:0%;
+  left:43%;
+  color: black;
+}
+li:hover{
+  background-color: #050A30;
+
+  
+}
