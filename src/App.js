@@ -28,7 +28,7 @@ function App() {
           </Col>
         <Col sm={10} style={{backgroundColor:'black'}}>
           <Routes>
-          <Route path='/' exact Component={Home}/>
+          <Route path='/syamala-react-app-works' exact Component={Home}/>
         <Route path='/Graph Integration' exact Component={About} />
         <Route path='/charts' exact Component={Charts} />
         <Route path='/status' exact Component={Status} />

@@ -10,7 +10,7 @@ function Header() {
   return (
     <div>
       <ul style={{marginTop:'70px',listStyleType:'none'}}>
-       <Link to='/' style={{color:'white',textDecoration:'none'}}><li style={{fontSize:'20px'}}><HomeIcon style={{marginRight:'5px',marginBottom:'8px'}}/>Home</li></Link>
+       <Link to='/syamala-react-app-works' style={{color:'white',textDecoration:'none'}}><li style={{fontSize:'20px'}}><HomeIcon style={{marginRight:'5px',marginBottom:'8px'}}/>Home</li></Link>
         <Link to='/Graph Integration' style={{color:'white',textDecoration:'none'}}> <li style={{marginTop:'70px',fontSize:'20px'}}><AssessmentIcon style={{marginRight:'5px',marginBottom:'8px'}}/>Graph Integration</li></Link>
         <Link to='/charts' style={{textDecoration:'none'}}><li style={{marginTop:'70px',color:'white',fontSize:'20px'}}><PieChartIcon style={{marginRight:'5px',marginBottom:'8px'}}/>Charts</li></Link>
         <Link to='/status' style={{textDecoration:'none'}}><li style={{marginTop:'70px',color:'white',fontSize:'20px'}}><DataUsageIcon style={{marginRight:'5px',marginBottom:'8px'}}/>Status</li></Link>
