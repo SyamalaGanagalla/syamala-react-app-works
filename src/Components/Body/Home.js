@@ -30,7 +30,7 @@ function Home() {
       <Col sm={10}>
      <DehazeIcon style={{fontSize:'30px'}}/>
     </Col>
-    <Col sm={2}>
+    <Col sm={2} style={{width:'100%'}}>
       <div className='five'>
     <MarkEmailUnreadIcon style={{fontSize:'30px'}}/>
      <Brightness1Icon style={{fontSize:'30px',marginLeft:'10px'}}/>
